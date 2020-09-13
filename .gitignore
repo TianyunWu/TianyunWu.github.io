@@ -1,0 +1,8 @@
+# File system hidden files
+.DS_Store
+
+cache
+.doit.db
+.doit.db.db
+__pycache__
+output
