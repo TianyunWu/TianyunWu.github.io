@@ -1,8 +1,14 @@
-# File system hidden files
+# File system
 .DS_Store
 
+# Editor
+.vscode
+
+# Nikola
 cache
-.doit.db
-.doit.db.db
+.doit.db*
 __pycache__
 output
+
+# Jupyter
+.ipynb_checkpoints
