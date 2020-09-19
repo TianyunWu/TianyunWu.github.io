@@ -8,3 +8,8 @@
 .. type: text
 
 This is a test. Repeat. This is a test.
+
+.. code-block::python
+    :number-lines
+
+    print('Hello World!")
