@@ -24,7 +24,7 @@ SITE_URL = "https://tianyunwu.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://tianyunwu.github.io/"
-BLOG_EMAIL = "tianyun.wu@gmail.com"
+BLOG_EMAIL = "tianyun_career@outlook.com"
 BLOG_DESCRIPTION = "This is a Github Pages site for my technical writings."  # (translatable)
 
 # Nikola is multilingual!
@@ -157,7 +157,7 @@ THEME = "bootblog4"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
-THEME_COLOR = '#5670d4' #'#44a670'
+THEME_COLOR = '5670d4' 
 
 # Theme configuration. Fully theme-dependent. (translatable)
 # Examples below are for bootblog4.
@@ -945,7 +945,11 @@ FEED_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
-LICENSE = ""
+LICENSE = """
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+<img alt="Creative Commons License BY-NC-SA"
+style="border-width:0; margin-bottom:12px;"
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>"""
 # I recommend using the Creative Commons' wizard:
 # https://creativecommons.org/choose/
 # LICENSE = """
