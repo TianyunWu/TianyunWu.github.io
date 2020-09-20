@@ -7,9 +7,25 @@
 .. description:
 .. type: text
 
-This is a test. Repeat. This is a test.
+This is a post to demonstrate how to format different types of texts in reStructuredText.
 
-.. code-block::python
-    :number-lines
+
+.. code-block:: python
 
     print('Hello World!")
+
+
+Bullet lists:
+- Apple
+- Pineapple
+- Banana
+
+Literal Blocks
+::
+
+    Line 1
+
+    Line 2
+
+
+The end.
