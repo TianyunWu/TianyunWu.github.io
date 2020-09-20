@@ -16,6 +16,7 @@ This is a post to demonstrate how to format different types of texts in reStruct
 
 
 Bullet lists:
+
 - Apple
 - Pineapple
 - Banana
