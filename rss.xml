@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>9to5Stats</title><link>https://tianyunwu.github.io/</link><description>This is a Github Pages site for my technical writings.</description><atom:link href="https://tianyunwu.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:tianyun.wu@gmail.com"&gt;Tianyun Wu&lt;/a&gt; </copyright><lastBuildDate>Sat, 19 Sep 2020 23:55:14 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hello World!</title><link>https://tianyunwu.github.io/posts/hello-world/</link><dc:creator>Tianyun Wu</dc:creator><description>&lt;div&gt;&lt;p&gt;This is a test. Repeat. This is a test.&lt;/p&gt;
-&lt;!-- code-block::python
-:number-lines
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>9to5Stats</title><link>https://tianyunwu.github.io/</link><description>This is a Github Pages site for my technical writings.</description><atom:link href="https://tianyunwu.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:tianyun.wu@gmail.com"&gt;Tianyun Wu&lt;/a&gt; </copyright><lastBuildDate>Sun, 20 Sep 2020 01:14:39 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hello World!</title><link>https://tianyunwu.github.io/posts/hello-world/</link><dc:creator>Tianyun Wu</dc:creator><description>&lt;div&gt;&lt;p&gt;This is a post to demonstrate how to format different types of texts in reStructuredText.&lt;/p&gt;
+&lt;pre class="code python"&gt;&lt;a name="rest_code_c8c6b15acfb94b03a245617fc2b2c196-1"&gt;&lt;/a&gt;&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'Hello World!")&lt;/span&gt;
+&lt;/pre&gt;&lt;p&gt;Bullet lists:
+- Apple
+- Pineapple
+- Banana&lt;/p&gt;
+&lt;p&gt;Literal Blocks&lt;/p&gt;
+&lt;pre class="literal-block"&gt;Line 1
 
-print('Hello World!") --&gt;&lt;/div&gt;</description><guid>https://tianyunwu.github.io/posts/hello-world/</guid><pubDate>Sun, 13 Sep 2020 04:09:46 GMT</pubDate></item></channel></rss>
+Line 2&lt;/pre&gt;
+&lt;p&gt;The end.&lt;/p&gt;&lt;/div&gt;</description><guid>https://tianyunwu.github.io/posts/hello-world/</guid><pubDate>Sun, 13 Sep 2020 04:09:46 GMT</pubDate></item></channel></rss>
