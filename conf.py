@@ -24,7 +24,7 @@ SITE_URL = "https://tianyunwu.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://tianyunwu.github.io/"
-BLOG_EMAIL = "tianyun_career@outlook.com"
+BLOG_EMAIL = "tianyunwu.ds@gmail.com"
 BLOG_DESCRIPTION = "This is a Github Pages site for my technical writings."  # (translatable)
 
 # Nikola is multilingual!
