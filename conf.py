@@ -153,7 +153,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "bootstrap4-united"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
@@ -178,7 +178,8 @@ THEME_CONFIG = {
         # Strip HTML from featured post text.
         'featured_strip_html': False,
         # Contents of the sidebar, If empty, the sidebar is not displayed.
-        'sidebar': ''
+        'sidebar': '',
+        'navbar_light': True,
     }
 }
 
