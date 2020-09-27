@@ -3,8 +3,8 @@
 &lt;a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;
 &lt;img alt="Creative Commons License BY-NC-SA"
 style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sun, 20 Sep 2020 04:33:50 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hello World!</title><link>https://tianyunwu.github.io/posts/hello-world/</link><dc:creator>Tianyun Wu</dc:creator><description>&lt;div&gt;&lt;p&gt;This is a post to demonstrate how to format different types of texts in reStructuredText.&lt;/p&gt;
-&lt;pre class="code python"&gt;&lt;a name="rest_code_65f357f595b14d36b6dbb4f6050b0154-1"&gt;&lt;/a&gt;&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'Hello World!")&lt;/span&gt;
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"&gt;&lt;/a&gt;</copyright><lastBuildDate>Sun, 27 Sep 2020 02:33:02 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hello World!</title><link>https://tianyunwu.github.io/posts/hello-world/</link><dc:creator>Tianyun Wu</dc:creator><description>&lt;div&gt;&lt;p&gt;This is a post to demonstrate how to format different types of texts in reStructuredText.&lt;/p&gt;
+&lt;pre class="code python"&gt;&lt;a name="rest_code_e3a9aaab046141b3918c82dcddfd2454-1"&gt;&lt;/a&gt;&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;'Hello World!")&lt;/span&gt;
 &lt;/pre&gt;&lt;p&gt;Bullet lists:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;Apple&lt;/p&gt;&lt;/li&gt;
